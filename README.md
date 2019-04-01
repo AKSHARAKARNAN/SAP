@@ -1,2 +1,2 @@
 # SAP
-introduction to python and ROS
+My project on fabrication of flexible sensor for soft gripper
